@@ -11,12 +11,12 @@
   📚&nbsp; Typescript, NextJS 스킬을 공부하고있어요. <br/>
   🌱&nbsp; 보더콜리 견주 🐶, 클라이밍 🧗🏼‍♀️, 풋살 ⚽︎ 좋아합니다!<br/> -->
 
-  👋 Hi! I’m a backend developer specializing in Node.js.
-  🥸 I enjoy building new features, but I also find great interest in optimizing performance and improving speed.
-  🔄 I continuously strive to minimize repetitive tasks.
-  💻 I’m skilled in implementing UI for admin tools using Tailwind CSS.
-  📚 Currently, I’m studying TypeScript and Next.js.
-  🌱 I’m a Border Collie owner 🐶 and enjoy climbing 🧗🏼‍♀️ and football ⚽︎!
+  👋&nbsp;  Hi! I’m a backend developer specializing in Node.js. <br/>
+  🥸&nbsp;  I enjoy building new features, but I also find great interest in optimizing performance and improving speed. <br/>
+  🔄&nbsp;  I continuously strive to minimize repetitive tasks. <br/>
+  💻&nbsp;  I’m skilled in implementing UI for admin tools using Tailwind CSS. <br/>
+  📚&nbsp;  Currently, I’m studying TypeScript and Next.js. <br/>
+  🌱&nbsp;  I’m a Border Collie owner 🐶 and enjoy climbing 🧗🏼‍♀️ and football ⚽︎! <br/>
 </p>
 
 
