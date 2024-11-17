@@ -1,4 +1,4 @@
-### 🤞 Hello, I’m Jonghyeok Choi, a Software Developer.
+### 🤞 Hello, I’m Jonghyeok Choi, a Software Developer.
 <p>
   <a href="mailto:jonghyeok.c.swe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/whdgurtpqms@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </a>
