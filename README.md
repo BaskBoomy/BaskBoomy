@@ -18,7 +18,7 @@
   🔄&nbsp;  I continuously strive to minimize repetitive tasks. <br/>
   💻&nbsp;  I’m skilled in implementing UI for admin tools using Tailwind CSS. <br/>
   📚&nbsp;  Currently, I’m studying TypeScript and Next.js. <br/>
-  🌱&nbsp;  I’m a Border Collie owner 🐶 and enjoy climbing 🧗🏼‍♀️ and football ⚽︎! <br/>
+  🌱&nbsp;  I’m a Border Collie daady 🐶 and enjoy climbing 🧗🏼‍♀️ and football ⚽︎! <br/>
 </p>
 
 
