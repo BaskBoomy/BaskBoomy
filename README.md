@@ -1,6 +1,6 @@
 ### 🤞 Hello, I’m Jonghyeok Choi, a Software Developer.
 <p>
-  <a href="mailto:jonghyeok.c.swe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/whdgurtpqms@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:jonghyeok.c.swe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jonghyeok.c.swe@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </a>
   <a href="https://linkedin.com/in/jonghyeok-choi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </p>
